@@ -12,6 +12,8 @@
 # next.js
 /.next/
 /out/
+components.json
+drizzle.config.js
 
 # production
 /build
